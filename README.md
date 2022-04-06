@@ -33,7 +33,17 @@ Specifically, you will assume the perspective of a Fintech Finder customer in or
 Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that you have successfully created the transaction, you will save screenshots to the README.md file of your GitHub repository for this Challenge assignment.
 
 ### Results
-Screenshot of Streamlit
+1. Screenshot of Streamlit
 <p align="center" width="50%">
-    <img width="75%" src="https://github.com/JakeKJShin/2_The_Moon_Investing_Beat_Down_Stock/blob/main/readme%20Images/Average_Joe.png"> 
+    <img width="75%" src="https://github.com/JakeKJShin/Assingment19_Blockchain_Wallets/blob/main/Images/SC_1.PNG"> 
+</p>
+
+2. Screenshot of Account
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/JakeKJShin/Assingment19_Blockchain_Wallets/blob/main/Images/SC_2.PNG"> 
+</p>
+
+3. Screenshot of Transaction
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/JakeKJShin/Assingment19_Blockchain_Wallets/blob/main/Images/SC_3.PNG"> 
 </p>
